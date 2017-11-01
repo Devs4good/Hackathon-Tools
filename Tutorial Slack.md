@@ -34,7 +34,7 @@ Este tutorial va a estar enfocado en la interfaz web pero muy similar será en e
 
 Del lado izquierdo encontrarás los espacios de conversación.
 
-![image alt text](image_0.png)
+![image alt text](img/slack/image_0.png)
 
 Clickeando en distintas personas o en distintos canales podes cambiar el espacio de la conversación. Si quieres enviarle un mensaje a una persona que no veas o en un canal que no ves inmediatamente podes clickear en el **+** y buscar el espacio apropiado. Desde este botón también podrás crear canales.
 
