@@ -50,15 +50,17 @@ Si bien recomendamos el tutorial #ManosEnLaMasa pueden ver la referencia de sus 
 
 Por otra parte CSS se escribe en un archivo aparte (el cual se vincula con el documento HTML) y se escriben "reglas" de CSS con el siguiente formato
 
-**selector {**
+```css
+selector {
 
-	**propiedad: valor;**
+	propiedad: valor;
 
-**	propiedad: valor;**
+	propiedad: valor;
 
-**}**
+}
+```
 
-En este caso, **selector **indica cuales de las etiquetas HTML se modificaran. Por ejemplo "Todas las etiquetas de tipo **<p>**. La **propiedad** indica que cuestión del estilo queremos modificar, por ejemplo **color**. El **valor** indicará que valor le damos a la propiedad. En el caso del color un valor válido podría ser **#FF2312**
+En este caso, **selector** indica cuales de las etiquetas HTML se modificaran. Por ejemplo "Todas las etiquetas de tipo `<p>`". La **propiedad** indica que cuestión del estilo queremos modificar, por ejemplo **color**. El **valor** indicará que valor le damos a la propiedad. En el caso del color un valor válido podría ser **#FF2312**
 
 Un ejemplo real con la información propuesta arriba se vería
 
