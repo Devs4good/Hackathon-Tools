@@ -36,11 +36,13 @@ Esa etiqueta indica el comienzo de un cartel en HTML.
 
 De esta forma, un elemento HTML podría ser:
 
-**<cartel>**
+```html
+<cartel>
 
-**	Este es mi cartel!!!**
+	Este es mi cartel!!!
 
-**</cartel>**
+</cartel>
+```
 
 Un navegador, como Chrome podrá leer este documento y mostrar en pantalla un cartel que diga "Este es mi cartel".
 
