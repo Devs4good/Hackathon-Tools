@@ -44,7 +44,9 @@ Desde Github creas un repositorio con el botón "+" de arriba a la derecha. Obvi
 
 ![image alt text](img/git/image_0.png)
 
-Apareces en una página para que indiques los datos del repositorio. Básicamente tienes que darle un nombre, elegir si es público o privado y opcionalmente una descripción. ![image alt text](img/git/image_1.png)
+Apareces en una página para que indiques los datos del repositorio. Básicamente tienes que darle un nombre, elegir si es público o privado y opcionalmente una descripción.
+
+![image alt text](img/git/image_1.png)
 
 Una vez creado el repositorio tendremos una URL única como por ejemplo [https://github.com/dariosus/jsonProvincias](https://github.com/dariosus/jsonProvincias) que es la URL a nuestro repositorio online
 
