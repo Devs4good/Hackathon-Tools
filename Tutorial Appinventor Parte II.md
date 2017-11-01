@@ -1,4 +1,4 @@
-MIT App Inventor ([Parte 2](https://www.youtube.com/watch?v=Dr6ZX-9uXb8))
+# MIT App Inventor ([Parte 2](https://www.youtube.com/watch?v=Dr6ZX-9uXb8))
 
 Este botón abre la ventana de programación con bloques. La parte más amplia, es el Editor, donde colocaremos los bloques de nuestros programas.
 
