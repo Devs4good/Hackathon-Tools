@@ -64,15 +64,17 @@ En este caso, **selector** indica cuales de las etiquetas HTML se modificaran. P
 
 Un ejemplo real con la información propuesta arriba se vería
 
-**p {**
+```css
+p {
 
-**	color: red;**
+	color: red;
 
-**	font-size: 32px;**
+	font-size: 32px;
 
-**	background-color: #FF2312;**
+	background-color: #FF2312;
 
-**}**
+}
+```
 
 Una vez más, el chiste esta en aprender estas reglas, como se combinan y como escribir selectores.
 
