@@ -10,7 +10,7 @@ Si bien es una tecnología que aún está en crecimiento actualmente permite por
 
 Desde un punto de vista simple será necesario hacer 3 pasos para transformar tu Web App en una PWA.
 
-**Paso 1**
+### Paso 1
 
 El primer paso es incluir un archivo **manifest.json**
 
@@ -82,12 +82,13 @@ Un archivo **manifest.json** se ve de la siguiente manera:
 }
 ```
 
-**Paso 2**
+### Paso 2
 
 El segundo paso busca generar eventos en Javascript que detecten la conexión online y offline.
 
 Esto se verá similar a algo así:
 
+```javascript
 window.addEventListener('online', function(e) {
 
 	    // Resync data with server.
@@ -131,15 +132,17 @@ window.addEventListener('online', function(e) {
 	    showOfflineWarning();
 
 	}
+```
 
 Las funciones **showOfflineWarning**, **loadData** y **hideOfflineWarning** dependerán de la lógica de tu aplicación.
 
-**Paso 3**
+### Paso 3
 
 El tercer paso pasa por registrar un Service Worker. Un Service Worker es un script que entre otras cosas nos permite guardar recursos en la memoria del teléfono haciendo que no requiera de conexión a internet para cargar por primera vez.
 
 En un javascript uno debería incluir un código del siguiente estilo:
 
+```javascript
 if ('serviceWorker' in navigator) {
 
 	    navigator.serviceWorker.register('./sw.js').then(function(reg) {
@@ -153,9 +156,11 @@ if ('serviceWorker' in navigator) {
 	    });
 
 	}
+```
 
 Por otra parte, crear el archivo **sw.js** con un formato de este estilo aclarando que archivos a guardar en caché:
 
+```javascript
 // use a cacheName for cache versioning
 
 var cacheName = 'v1:static';
@@ -221,3 +226,6 @@ self.addEventListener('fetch', function(event) {
     );
 
 });
+```
+
+¡Espero les sirva!
