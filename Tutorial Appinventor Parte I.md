@@ -44,7 +44,7 @@ Si no somos usuarios en esta plataforma nos pedirá que iniciemos la sesión con
 
 Para comenzar un nuevo proyecto simplemente le damos al botón **_"Crear un proyecto nuevo" _**o **_“Start new project”_** según el idioma que le asignemos a la plataforma, para cambiar el idioma tienes que elegir uno de la lista desplegable que está en el borde superior derecho, al lado de nuestra cuenta logeada.
 
-![image alt text](image_0.png)
+![image alt text](img/image_0.png)
 
 A continuación se ilustran los componentes disponibles en cada uno de estos en el panel izquierdo de la plataforma:
 
