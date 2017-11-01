@@ -35,13 +35,13 @@ A continuación se detalla un listado de recursos útiles para esta Hackaton jun
 
 Dentro de lo que es desarrollo web un factor fundamental es la parte visual que deberá ver el usuario. En estos tutoriales cubriremos cómo crear esta parte de un sitio web desde 0 o utilizando herramientas existentes para crear prototipos de manera veloz.
 
-    * [HTML + CSS](https://drive.google.com/open?id=1Q8mRFfj0Kagb85Oa2XjfMCuaVj7pd0i0ngKMIyCjFz0)
+* [HTML + CSS](https://drive.google.com/open?id=1Q8mRFfj0Kagb85Oa2XjfMCuaVj7pd0i0ngKMIyCjFz0)
 
-    * [Templates HTML + CSS](https://drive.google.com/open?id=1XcicR6x9H8vxvKLe68Sbrq6oJdH9iQMvGt0_DUtLb88)
+* [Templates HTML + CSS](https://drive.google.com/open?id=1XcicR6x9H8vxvKLe68Sbrq6oJdH9iQMvGt0_DUtLb88)
 
-    * [JS](https://drive.google.com/open?id=1-pKa_h2a1KDbIthGPqvn664wl6BrkzDu-zaizIZzmWQ)
+* [JS](https://drive.google.com/open?id=1-pKa_h2a1KDbIthGPqvn664wl6BrkzDu-zaizIZzmWQ)
 
-    * [Enlatados](https://drive.google.com/open?id=1baHgssKS2eD2jMXomSYHpsXOkRLOy_iK8mQfdHaStII)
+* [Enlatados](https://drive.google.com/open?id=1baHgssKS2eD2jMXomSYHpsXOkRLOy_iK8mQfdHaStII)
 
 * [PWA - Progressive Web Apps](https://drive.google.com/open?id=1tz-AZb8Cgjt2hCdHCUijDV_hlwDgR5M_D8DGCiJ6mqw)
 
