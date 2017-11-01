@@ -1,4 +1,4 @@
-Enlatados WEB
+# Enlatados WEB
 
 Introducción
 
@@ -17,4 +17,3 @@ En estos casos, se utiliza un editor online. Recomendamos plataformas como:
 Les dejamos un tutorial de uso de WIX en [https://www.youtube.com/watch?v=IHPAug87jpM](https://www.youtube.com/watch?v=IHPAug87jpM)
 
 Les dejamos un tutorial de Squarespace en [https://www.youtube.com/watch?v=i5EBcGMqDp4](https://www.youtube.com/watch?v=i5EBcGMqDp4)
-

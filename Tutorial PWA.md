@@ -1,4 +1,4 @@
-PWA - Progressive Web Apps
+# PWA - Progressive Web Apps
 
 Introducción
 
@@ -219,4 +219,3 @@ self.addEventListener('fetch', function(event) {
     );
 
 });
-

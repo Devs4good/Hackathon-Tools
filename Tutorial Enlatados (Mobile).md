@@ -1,4 +1,4 @@
-Enlatados Mobile
+# Enlatados Mobile
 
 Introducción
 
@@ -9,4 +9,3 @@ Esto significa que uno solamente puede hacer las funcionalidades que permite la 
 Uso
 
 En este caso recomendamos [Shoutem](http://www.shoutem.com/) donde la misma página presenta una guía #ManosEnLaMasa para la creación de una app.
-

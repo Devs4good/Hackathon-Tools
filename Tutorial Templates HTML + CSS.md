@@ -1,4 +1,4 @@
-Templates HTML + CSS
+# Templates HTML + CSS
 
 Introducción
 
@@ -11,4 +11,3 @@ Descargase un template implica comenzar de un archivos HTML, CSS y JS con una ba
 A su vez, al tener el código fuente uno puede editarlo al 100%.
 
 Recomendamos [https://html5up.net/](https://html5up.net/) por tener un catalogo amplio, bonito, responsive y gratuito.
-

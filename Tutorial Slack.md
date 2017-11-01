@@ -1,4 +1,4 @@
-Slack
+# Slack
 
 Tutorial: [https://www.youtube.com/watch?v=U0ojxf1DZ-g](https://www.youtube.com/watch?v=U0ojxf1DZ-g)
 
@@ -47,4 +47,3 @@ Al ingresar por primera vez a Slack, la misma plataforma ofrece un tutorial.
 Si no lo viste, podes abrir la conversación con **slackbot** (un robot de Slack mismo) y conversarle. El mismo robot brindará las respuestas a lo que necesites.
 
 En el peor de los casos, siempre podes acceder al [centro de ayuda](https://get.slack.help/hc/es)
-
