@@ -18,6 +18,7 @@ Este archivo es el que permite que la web app sea "instalable" aclarando peculia
 
 Un archivo **manifest.json** se ve de la siguiente manera:
 
+```json
 ﻿{
 
   "short_name": "Clases",
@@ -79,6 +80,7 @@ Un archivo **manifest.json** se ve de la siguiente manera:
   "background_color": "#E4133B"
 
 }
+```
 
 **Paso 2**
 
