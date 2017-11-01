@@ -96,25 +96,25 @@ Una vez que tengamos los dos recursos, proseguimos a incluir un botón en la pan
 
 En la parte izquierda hacemos click en el componente **"BOTÓN"** y sin soltar arrastramos hasta el **“VISOR”**.
 
-![image alt text](image_1.png)
+![image alt text](img/image_1.png)
 
 Ahora, lo que queremos lograr es que nuestro gatito aparezca en la pantalla. Para que el botón tenga la imagen, hacemos click en el botón, y en el panel derecho de App Inventor, en propiedades, y bajo la propiedad **"IMAGEN"**, hacemos click en **“NINGUNO”** eligiendo la opción **_“Subir Archivo”_** donde seleccionaremos a nuestro Michi.
 
-![image alt text](image_2.jpg)
+![image alt text](img/image_2.jpg)
 
 Podremos ver al gato como imagen del botón, que ahora será más grande.
 
-![image alt text](image_3.jpg)
+![image alt text](img/image_3.jpg)
 
 Para quitar el texto para el **"Botón1"** que aparece por debajo del gato hay que borrar el valor de la propiedad **“Texto del botón”**, en la parte derecha de la ventana. Luego debemos cambiar los valores de las propiedades **“Ancho”** y **“Alto”** del botón por **“Ajustar al contenedor”**, así se ajusten al tamaño máximo de la pantalla.
 
-![image alt text](image_4.png)
+![image alt text](img/image_4.png)
 
-Ahora añadiremos un sonido a nuestra aplicación, arrastrando hasta el visor el icono **"Sonido"**, que está dentro del grupo **“Medios”**, en la Paleta.![image alt text](image_5.png)
+Ahora añadiremos un sonido a nuestra aplicación, arrastrando hasta el visor el icono **"Sonido"**, que está dentro del grupo **“Medios”**, en la Paleta.![image alt text](img/image_5.png)
 
 Este objeto no se verá en el móvil o en el emulador, porque no es una imagen, botón, o etiqueta.
 
-![image alt text](image_6.png)
+![image alt text](img/image_6.png)
 
 En el Panel de Propiedades, seleccionamos la propiedad **"ORIGEN"** del componente **“Sonido1”** y subiremos el archivo.
 
