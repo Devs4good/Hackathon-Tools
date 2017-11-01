@@ -16,7 +16,7 @@ El primer paso es incluir un archivo **manifest.json**
 
 Este archivo es el que permite que la web app sea "instalable" aclarando peculiaridades como colores de la PWA, ícono, nombre ,etc.
 
-Un archivo **manifest.json **se ve de la siguiente manera:
+Un archivo **manifest.json** se ve de la siguiente manera:
 
 ﻿{
 
