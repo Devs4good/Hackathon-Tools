@@ -54,9 +54,9 @@ Una vez creado el repositorio tendremos una URL única como por ejemplo [https:/
 
 Para esto existen vario programas para utilizar en nuestras computadoras. Las opciones recomendadas son:
 
-⋅⋅1. Utilizarlo desde la terminal (en Linux y Mac es muy sencillo de instalar. Para Windows se recomienda [Git Bash](https://git-for-windows.github.io/)). Es decir que se utiliza mediante líneas de comando.
+- Utilizarlo desde la terminal (en Linux y Mac es muy sencillo de instalar. Para Windows se recomienda [Git Bash](https://git-for-windows.github.io/)). Es decir que se utiliza mediante líneas de comando.
 
-⋅⋅2. Utilizar una interfaz gráfica como [Github For Desktop](https://desktop.github.com/) o [GitKraken](https://www.gitkraken.com/)
+- Utilizar una interfaz gráfica como [Github For Desktop](https://desktop.github.com/) o [GitKraken](https://www.gitkraken.com/)
 
 Para aprender Github For Desktop recomendamos el siguiente video: [https://www.youtube.com/watch?v=QBA19ocMGQQ](https://www.youtube.com/watch?v=QBA19ocMGQQ)
 
