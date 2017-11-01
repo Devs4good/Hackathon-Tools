@@ -11,15 +11,15 @@ A continuación se detalla un listado de recursos útiles para esta Hackaton jun
 
 * Trello
 
-* [Slack](https://docs.google.com/document/d/1Hqo8dWkpPcJHsWre1I7omsJRXsUx4yAHeKl043c4njI/edit?usp=sharing)
+* [Slack](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20Slack.md)
 
-* [Git](https://drive.google.com/open?id=19OMhGx0o9Ytr5_aVaNmoECzTglbl6LzNNNGFsiLN1nQ)
+* [Git](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20GIT.md)
 
 * Drive
 
 * Grabación de pantalla:
 
-    * Windows/Mac: [Ice Cream Recorder](https://drive.google.com/open?id=1QDJLnwIySYQLWLMOFN_fvD_HM4LUbGtCslFGOnkYXPQ)
+    * Windows/Mac: [Ice Cream Recorder](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20Ice%20Cream%20Recorder.md)
 
     * Android: [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=es_419) - Descarga Play Store
 
@@ -32,23 +32,22 @@ A continuación se detalla un listado de recursos útiles para esta Hackaton jun
 * [Programación 101](https://mumuki.io/chapters/6-fundamentos) - Tutorial Hands On via Mumuki
 
 * Front End Web - Dentro de lo que es desarrollo web un factor fundamental es la parte visual que deberá ver el usuario. En estos tutoriales cubriremos cómo crear esta parte de un sitio web desde 0 o utilizando herramientas existentes para crear prototipos de manera veloz.
-   * [HTML + CSS](https://drive.google.com/open?id=1Q8mRFfj0Kagb85Oa2XjfMCuaVj7pd0i0ngKMIyCjFz0)
+   * [HTML + CSS](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20HTML%20%2B%20CSS.md)
 
-   * [Templates HTML + CSS](https://drive.google.com/open?id=1XcicR6x9H8vxvKLe68Sbrq6oJdH9iQMvGt0_DUtLb88)
+   * [Templates HTML + CSS](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20Templates%20HTML%20%2B%20CSS.md)
 
-   * [JS](https://drive.google.com/open?id=1-pKa_h2a1KDbIthGPqvn664wl6BrkzDu-zaizIZzmWQ)
+   * [JS](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20JS.md)
 
-   * [Enlatados](https://drive.google.com/open?id=1baHgssKS2eD2jMXomSYHpsXOkRLOy_iK8mQfdHaStII)
+   * [Enlatados](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20Enlatados%20(WEB).md)
 
-* [PWA - Progressive Web Apps](https://drive.google.com/open?id=1tz-AZb8Cgjt2hCdHCUijDV_hlwDgR5M_D8DGCiJ6mqw)
+* [PWA - Progressive Web Apps](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20PWA.md)
 
 * Mobile
 
-    * [Enlatados](https://drive.google.com/open?id=1DInfPFMH1rVsih2PmuPH26ZtFDR0th-CE3mC85CyPvo) 
+    * [Enlatados](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20Enlatados%20(Mobile).md)
 
 * AppInventor
 
-    * [Parte I](https://drive.google.com/open?id=1qdHG0gn1e1SQYzrwdVgpKvRCaaI--BLeOeC0GFPYw1o)
+    * [Parte I](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20Appinventor%20Parte%20I.md)
 
-    * [Parte II](https://drive.google.com/open?id=1KzSsiUnqW198_uB87-xW_LySJKMgzHsRth_uYtAeYbc)
-
+    * [Parte II](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20Appinventor%20Parte%20II.md)
