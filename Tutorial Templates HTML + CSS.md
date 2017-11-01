@@ -1,10 +1,10 @@
 # Templates HTML + CSS
 
-__Introducción__
+## Introducción
 
 Dado que realizar el sitio y desarrollo de todo el front end muchas veces puede ser largo, recomendamos, para un prototipo, la utilización de un template.
 
-__Uso__
+## Uso
 
 Descargase un template implica comenzar de un archivos HTML, CSS y JS con una base importante para construir encima.
 

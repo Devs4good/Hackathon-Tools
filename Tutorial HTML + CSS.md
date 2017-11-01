@@ -1,6 +1,6 @@
 # HTML + CSS
 
-__Introducción__
+## Introducción
 
 HTML y CSS son dos meta-lenguajes de programación para el front end de un sitio web.
 
@@ -24,7 +24,7 @@ Por esto aparece CSS que nos permite definir cuestiones de estilo y diseño del 
 
 Con esta misma lógica se puede realizar un diseño responsive. Es decir, indicar algunas reglas de diseño que solamente aplicaran cuando la web se vea desde una tablet o un teléfono movil.
 
-__Uso__
+## Uso
 
 HTML es un lenguaje de etiquetas. Una etiqueta podría decir
 
@@ -76,7 +76,7 @@ Una vez más, el chiste esta en aprender estas reglas, como se combinan y como e
 
 Si bien recomendamos el Tutorial #ManosEnLaMasa, para ver una referencia completa pueden ingresar en [https://www.w3schools.com/css/](https://www.w3schools.com/css/)
 
-__Tutorial #ManosEnLaMasa__
+## Tutorial #ManosEnLaMasa
 
 Recomendamos tutoriales como:
 
