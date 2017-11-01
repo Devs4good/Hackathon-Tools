@@ -2,7 +2,7 @@
 
 Link: [https://try.github.io](https://try.github.io)
 
-Introducción
+__Introducción__
 
 La manera más sencilla de pensar GIT es como una herramienta para compartir archivos. La misma está enfocada en código de programación, permitiendo compartir archivos entre muchos programadores.
 
@@ -34,7 +34,7 @@ Es importante también aclarar qué archivos son parte del commit. A esto se lo 
 
 Naturalmente, GIT se puede poner un poco más complejo pero estas son las ideas iniciales.
 
-Uso
+__Uso__
 
 Para utilizar GIT uno tiene que hacer dos cosas
 
@@ -64,6 +64,6 @@ Para aprender GitKraken recomendamos los siguientes videos:
 
 Para aprender a usarlo desde la terminal recomendamos la siguiente sección del documento.
 
-Tutorial #ManosEnLaMasa
+__Tutorial #ManosEnLaMasa__
 
 Los invitamos a aprender desde [http://try.github.io/](http://try.github.io/) o desde [https://www.codecademy.com/es/learn/learn-git](https://www.codecademy.com/es/learn/learn-git)

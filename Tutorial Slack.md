@@ -2,7 +2,7 @@
 
 Tutorial: [https://www.youtube.com/watch?v=U0ojxf1DZ-g](https://www.youtube.com/watch?v=U0ojxf1DZ-g)
 
-Introducción
+__Introducción__
 
 Slack es un canal de comunicación para comunicar equipos complejos permitiendo tomar temas en simultáneo de manera ordenada.
 
@@ -24,7 +24,7 @@ Como usuario, uno puede crear tantos canales como uno quiera aunque ¡no generem
 
 Slack es prolijo y a su vez permite realizar conexiones con otras aplicaciones lo cual lo hace sumamente poderoso.
 
-Uso
+__Uso__
 
 Existen espacios de Slack a los que uno puede simplemente unirse y otros a los que uno requiere una invitación. En el caso de D4G uno simplemente debe registrarse en [https://slack.developersforgood.com](https://slack.developersforgood.com)
 
@@ -40,7 +40,7 @@ Clickeando en distintas personas o en distintos canales podes cambiar el espacio
 
 El espacio de conversación es más sencillo...¡es simplemente un chat!
 
-Tutorial #ManosEnLaMasa
+__Tutorial #ManosEnLaMasa__
 
 Al ingresar por primera vez a Slack, la misma plataforma ofrece un tutorial.
 

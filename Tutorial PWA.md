@@ -1,12 +1,12 @@
 # PWA - Progressive Web Apps
 
-Introducción
+__Introducción__
 
 Las Progressive Web Apps son una tecnología impulsada por Google que busca juntar lo mejor de los dos mundos entre Web y Mobile.
 
 Si bien es una tecnología que aún está en crecimiento actualmente permite por ejemplo "instalar" una web en el escritorio de un teléfono haciéndolo parecer un poco más una app. A su vez se pueden incluir procesos que permitan no requerir de conexión a internet.
 
-Uso
+__Uso__
 
 Desde un punto de vista simple será necesario hacer 3 pasos para transformar tu Web App en una PWA.
 
