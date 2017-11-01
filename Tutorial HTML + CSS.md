@@ -28,25 +28,23 @@ Con esta misma lógica se puede realizar un diseño responsive. Es decir, indica
 
 HTML es un lenguaje de etiquetas. Una etiqueta podría decir
 
-**<cartel>**
+<cartel>
 
 Esa etiqueta indica el comienzo de un cartel en HTML.
 
-¿Donde termina el cartel? En la etiqueta de cierre la cual se escribe **</cartel>**
+¿Donde termina el cartel? En la etiqueta de cierre la cual se escribe </cartel>
 
 De esta forma, un elemento HTML podría ser:
 
 ```html
 <cartel>
-
 	Este es mi cartel!!!
-
 </cartel>
 ```
 
 Un navegador, como Chrome podrá leer este documento y mostrar en pantalla un cartel que diga "Este es mi cartel".
 
-El chiste de esto esta en que Chrome no conoce la etiqueta **<cartel> **y habrá que aprender cuales etiquetas son válidas y como se combinan.
+El chiste de esto esta en que Chrome no conoce la etiqueta <cartel> y habrá que aprender cuales etiquetas son válidas y como se combinan.
 
 Si bien recomendamos el tutorial #ManosEnLaMasa pueden ver la referencia de sus etiquetas en [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 
