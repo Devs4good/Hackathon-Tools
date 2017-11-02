@@ -27,7 +27,7 @@ A continuación se detalla un listado de recursos útiles para esta Hackaton jun
 
 * Atom
 
-* Deploy
+* [Deploy](https://github.com/Devs4good/Hackathon-Tools/blob/master/Tutorial%20Deploy.md)
 
 * [Programación 101](https://mumuki.io/chapters/6-fundamentos) - Tutorial Hands On via Mumuki
 
